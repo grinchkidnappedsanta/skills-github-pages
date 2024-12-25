@@ -51,21 +51,12 @@ Decentralized and Fair
 Minimal dev team allocation ensures power remains with the community.
 Transparent tokenomics guarantee fairness and trust.
 
-Roadmap
+Social media 
 
-Launch Phase
-
-Deploy GNCHY on the Solana blockchain.
-Initiate bonding curve and community distribution.
-Launch website and social media platforms.
-Community Building
-Host interactive events and giveaways.
-Release GNCHY-themed NFTs.
-Establish partnerships with influencers and other projects.
-Ecosystem Expansion
-Introduce staking rewards and liquidity pools.
-Develop a GNCHY marketplace for NFTs and merchandise.
-Enhance the narrative with seasonal story updates.
+pump.fun link: will be uploded soon!
+instagram:https://www.instagram.com/grinchkidnappedsanta/profilecard/?igsh=MWc3anJveTI0dWJ2Ng==
+X:https://x.com/grinchkidnsanta?s=11
+launching on pump.fun at 3:30pm UTC 25th December
 
 Conclusion
 
@@ -74,6 +65,7 @@ Grinch Kidnapped Santa Coin is more than just a cryptocurrency; it’s a celebra
 Disclaimer
 
 GNCHY is a speculative asset, and its value is subject to market fluctuations. Always conduct thorough research and consult financial advisors before investing
+
 
 
 
