@@ -8,37 +8,27 @@ Grinch Kidnapped Santa (GNCHY) is a community-driven, fun-focused cryptocurrency
 Introduction
 
 The holiday season is a time of cheer and giving—but what if we added a little twist? GNCHY brings the playful story of the Grinch kidnapping Santa into the world of cryptocurrency. It’s not just a coin; it’s an experience, a community, and a financial opportunity all wrapped in one. GNCHY is designed to:
-
 Deliver Fun: A unique and entertaining narrative to keep the community engaged.
-
 Empower the Community: Over 99.9% of tokens are allocated to the community and bonding curve.
-
 Offer Opportunity: With a strong foundation on Solana, GNCHY provides a high-performance, low-cost ecosystem for its holders.
 
 Tokenomics
 
 Total Supply: 1,000,000,000 GNCHY
-
 Community Allocation: 99.9% of the total supply is distributed through bonding curves and community-driven mechanisms, ensuring decentralization and fairness.
-
 Development Team: Only 0.1% of the total supply is allocated to the development team. This ensures alignment with the community’s interests.
 
 Bonding Curve
 
 The bonding curve model allows GNCHY to scale with community growth:
-
 Early adopters can acquire tokens at a lower cost.
-
 As demand increases, the price of tokens rises along the curve, benefiting early supporters.
 
 Built on Solana
 
 Solana’s high-speed and low-cost blockchain ensures that GNCHY is accessible and efficient:
-
 Scalability: Handles thousands of transactions per second, making GNCHY ideal for a growing community.
-
 Low Fees: Minimal transaction costs mean more value for holders.
-
 Eco-Friendly: Solana’s proof-of-stake model reduces environmental impact compared to traditional proof-of-work systems.
 
 The GNCHY Experience
@@ -48,21 +38,17 @@ GNCHY isn’t just a cryptocurrency; it’s a story-driven adventure. As holders
 Why Hold GNCHY?
 
 Fun Factor
-
 Be part of a playful narrative that keeps the spirit of fun alive.
 
 Participate in interactive community events and themed activities.
 
 Potential Gains
-
 Early adopters benefit from the bonding curve’s favorable pricing.
-
 Community-driven growth ensures organic demand and long-term value.
 
 Decentralized and Fair
 
 Minimal dev team allocation ensures power remains with the community.
-
 Transparent tokenomics guarantee fairness and trust.
 
 Roadmap
@@ -70,25 +56,15 @@ Roadmap
 Launch Phase
 
 Deploy GNCHY on the Solana blockchain.
-
 Initiate bonding curve and community distribution.
-
 Launch website and social media platforms.
-
 Community Building
-
 Host interactive events and giveaways.
-
 Release GNCHY-themed NFTs.
-
 Establish partnerships with influencers and other projects.
-
 Ecosystem Expansion
-
 Introduce staking rewards and liquidity pools.
-
 Develop a GNCHY marketplace for NFTs and merchandise.
-
 Enhance the narrative with seasonal story updates.
 
 Conclusion
