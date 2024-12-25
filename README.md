@@ -56,7 +56,7 @@ Social media
 pump.fun link: will be uploded soon!
 instagram:https://www.instagram.com/grinchkidnappedsanta/profilecard/?igsh=MWc3anJveTI0dWJ2Ng==
 X:https://x.com/grinchkidnsanta?s=11
-launching on pump.fun at 3:30pm UTC 25th December
+launching on pump.fun at 4:30pm UTC 25th December
 
 Conclusion
 
